@@ -4,10 +4,14 @@
 #include "Person.h"
 #include <string>
 #using namespace std;
-//#write student class here
 
-
-
+class student{
+     private:
+    int yearLevel;
+    String major;
+    public:
+     display();
+}
 
 
 
