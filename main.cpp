@@ -71,4 +71,14 @@ public:
         s.display();
      }
   }
+ int () main{
+    Students s = new Student;
+    Instructor i = new Instructor;
+    course c = new course;
+    addStudents(s);
+ c.displayCourseInfo();
+ i.display();
+ s.display();
+  }
    
+
